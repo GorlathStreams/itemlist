@@ -3502,13 +3502,13 @@
       "abr": "arcanetome:bard",
       "category": "Skill books",
       "defname": "BookOfBard",
-      "price": 5500
+      "price": 8740
     },
     {
       "abr": "arcanetome:brightmage",
       "category": "Skill books",
       "defname": "BookOfTheSun",
-      "price": 5500
+      "price": 11980
     },
     {
       "abr": "arcanetome:chaosmage",
@@ -3520,7 +3520,7 @@
       "abr": "arcanetome:chronomancer",
       "category": "Skill books",
       "defname": "BookOfChronomancer",
-      "price": 5500
+      "price": 11980
     },
     {
       "abr": "arcanetome:demonology",
@@ -3568,7 +3568,7 @@
       "abr": "arcanetome:nature",
       "category": "Skill books",
       "defname": "BookOfDruid",
-      "price": 5500
+      "price": 8740
     },
     {
       "abr": "arcanetome:necromancer",
@@ -3580,19 +3580,19 @@
       "abr": "arcanetome:power",
       "category": "Skill books",
       "defname": "BookOfArcanist",
-      "price": 5500
+      "price": 11980
     },
     {
       "abr": "arcanetome:priest",
       "category": "Skill books",
       "defname": "BookOfPriest",
-      "price": 5500
+      "price": 11980
     },
     {
       "abr": "arcanetome:shadow",
       "category": "Skill books",
       "defname": "BookOfShadow",
-      "price": 5500
+      "price": 11980
     },
     {
       "abr": "arcanetome:shaman",
@@ -3604,7 +3604,7 @@
       "abr": "arcanetome:summoning",
       "category": "Skill books",
       "defname": "BookOfSummoner",
-      "price": 5500
+      "price": 8740
     },
     {
       "abr": "archotecheraser",
@@ -4324,13 +4324,13 @@
       "abr": "combatform:gladiator",
       "category": "Skill books",
       "defname": "BookOfGladiator",
-      "price": 4292
+      "price": 7532
     },
     {
       "abr": "combatstyle:bladedancer",
       "category": "Skill books",
       "defname": "BookOfBladedancer",
-      "price": 4292
+      "price": 10772
     },
     {
       "abr": "combatstyle:commander",
@@ -4666,7 +4666,7 @@
       "abr": "divinetome:paladin",
       "category": "Skill books",
       "defname": "BookOfValiant",
-      "price": 5500
+      "price": 8740
     },
     {
       "abr": "doctorscrubs",
