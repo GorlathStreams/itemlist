@@ -199,7 +199,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 15480,
       "removePrice": 5000,
       "defName": "Arcanist",
       "degree": 4,
@@ -582,7 +582,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 14272,
       "removePrice": 5000,
       "defName": "Bladedancer",
       "degree": 2,
@@ -994,7 +994,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "BloodMage",
       "degree": 4,
@@ -1276,7 +1276,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 15480,
       "removePrice": 5000,
       "defName": "TM_Brightmage",
       "degree": 4,
@@ -1596,7 +1596,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "ChaosMage",
       "degree": 4,
@@ -1767,7 +1767,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 15480,
       "removePrice": 5000,
       "defName": "Chronomancer",
       "degree": 4,
@@ -1950,7 +1950,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "TM_Commander",
       "degree": 4,
@@ -2171,7 +2171,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "DeathKnight",
       "degree": 4,
@@ -2359,7 +2359,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 12240,
       "removePrice": 5000,
       "defName": "Druid",
       "degree": 4,
@@ -2612,7 +2612,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "Enchanter",
       "degree": 4,
@@ -2753,7 +2753,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 12240,
       "removePrice": 5000,
       "defName": "TM_Bard",
       "degree": 0,
@@ -2882,7 +2882,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "Faceless",
       "degree": 4,
@@ -3127,7 +3127,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "InnerFire",
       "degree": 4,
@@ -3354,7 +3354,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "Geomancer",
       "degree": 4,
@@ -3499,7 +3499,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 11032,
       "removePrice": 5000,
       "defName": "Gladiator",
       "degree": 4,
@@ -3958,7 +3958,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "HeartOfFrost",
       "degree": 4,
@@ -4765,7 +4765,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "StormBorn",
       "degree": 4,
@@ -5477,7 +5477,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "TM_Monk",
       "degree": 4,
@@ -5658,7 +5658,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "Necromancer",
       "degree": 4,
@@ -5946,7 +5946,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 12240,
       "removePrice": 5000,
       "defName": "Paladin",
       "degree": 4,
@@ -6408,7 +6408,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 15480,
       "removePrice": 5000,
       "defName": "Priest",
       "degree": 4,
@@ -6909,7 +6909,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "Ranger",
       "degree": 3,
@@ -7285,7 +7285,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 7000,
+      "addPrice": 15480,
       "removePrice": 5000,
       "defName": "TM_TheShadow",
       "degree": 4,
@@ -7532,7 +7532,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "TM_Shaman",
       "degree": 4,
@@ -8302,7 +8302,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "Succubus",
       "degree": 4,
@@ -8451,7 +8451,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 12240,
       "removePrice": 5000,
       "defName": "Summoner",
       "degree": 4,
@@ -9425,7 +9425,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "TM_Wanderer",
       "degree": 4,
@@ -9585,7 +9585,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 9000,
       "removePrice": 5000,
       "defName": "Warlock",
       "degree": 4,
@@ -9734,7 +9734,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 3500,
+      "addPrice": 7792,
       "removePrice": 5000,
       "defName": "TM_Wayfarer",
       "degree": 4,
@@ -10125,7 +10125,7 @@
   ],
   "races": [
     {
-      "price": 2917,
+      "price": 1142,
       "defName": "Alien_Bunlander",
       "enabled": true,
       "name": "Bun",
@@ -10162,7 +10162,7 @@
       }
     },
     {
-      "price": 2917,
+      "price": 1000,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -10171,7 +10171,7 @@
       }
     },
     {
-      "price": 3333,
+      "price": 1142,
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
