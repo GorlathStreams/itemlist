@@ -37,6 +37,7 @@
           "slothful"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
@@ -53,7 +54,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Academian",
       "degree": 0,
@@ -62,6 +63,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+4 intellectual",
           "+4 medical",
@@ -174,7 +176,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "TM_ArcaneConduitTD",
       "degree": 0,
@@ -186,6 +188,7 @@
           "manawell"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is abnormally receptive to the ebb and flow of mana, he will gain mana 40% faster than normal but his maximum mana capacity is reduced by 20.",
@@ -199,7 +202,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 12980,
+      "addPrice": 13480,
       "removePrice": 750,
       "defName": "Arcanist",
       "degree": 4,
@@ -259,6 +262,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+10% research speed",
           "+20% global learning factor",
@@ -545,7 +549,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_BigBoned",
       "degree": 0,
       "name": "big-boned",
@@ -553,6 +557,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
@@ -582,7 +587,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 11772,
+      "addPrice": 12272,
       "removePrice": 750,
       "defName": "Bladedancer",
       "degree": 2,
@@ -639,6 +644,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.30 move speed",
           "-8% mental break threshold",
@@ -994,7 +1000,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "BloodMage",
       "degree": 4,
@@ -1054,6 +1060,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+20.00% social impact",
           "+15.00% negotiation ability",
@@ -1134,7 +1141,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "BodyPurist",
       "degree": 0,
       "name": "bodypurist",
@@ -1144,6 +1151,7 @@
           "transhumanist"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts are unethical and disgusting.",
@@ -1181,15 +1189,16 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Bravery",
       "degree": 1,
-      "name": "brave_1",
+      "name": "brave",
       "data": {
         "canBypassLimit": false,
         "conflicts": [],
         "customName": true,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-50% suppressability"
         ]
@@ -1204,11 +1213,11 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Brave",
       "degree": 0,
-      "name": "brave_2",
+      "name": "brave-minded",
       "data": {
         "canBypassLimit": false,
         "conflicts": [
@@ -1216,6 +1225,7 @@
           "coward"
         ],
         "customName": true,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-20% mental break threshold",
           "+20% pain shock threshold"
@@ -1276,7 +1286,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 12980,
+      "addPrice": 13480,
       "removePrice": 750,
       "defName": "TM_Brightmage",
       "degree": 4,
@@ -1387,6 +1397,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+15% psychic sensitivity",
           "+0.20 move speed",
@@ -1596,7 +1607,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "ChaosMage",
       "degree": 4,
@@ -1656,6 +1667,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+25% global learning factor",
           "-20% research speed",
@@ -1767,7 +1779,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 12980,
+      "addPrice": 13480,
       "removePrice": 750,
       "defName": "Chronomancer",
       "degree": 4,
@@ -1827,6 +1839,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+25% global learning factor",
           "+40% research speed",
@@ -1901,7 +1914,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_Clumsy",
       "degree": 0,
       "name": "clumsy",
@@ -1911,6 +1924,7 @@
           "nimble"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
@@ -1950,7 +1964,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "TM_Commander",
       "degree": 4,
@@ -2010,6 +2024,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+40.00% social impact",
           "+30.00% negotiation ability",
@@ -2103,7 +2118,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_Coward",
       "degree": 0,
       "name": "coward",
@@ -2115,6 +2130,7 @@
           "bloodlust"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
@@ -2130,7 +2146,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Bravery",
       "degree": -1,
       "name": "cowardly",
@@ -2138,6 +2154,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "+25% suppressability"
         ]
@@ -2171,7 +2188,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "DeathKnight",
       "degree": 4,
@@ -2228,6 +2245,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-25.00% social impact",
           "-25.00% negotiation ability",
@@ -2299,7 +2317,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "NaturalMood",
       "degree": -2,
       "name": "depressive",
@@ -2307,6 +2325,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy is perenially unhappy. he has trouble sustaining a good mood even when everything is fine.",
@@ -2326,6 +2345,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
@@ -2359,7 +2379,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 9740,
+      "addPrice": 10240,
       "removePrice": 750,
       "defName": "Druid",
       "degree": 4,
@@ -2419,6 +2439,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+15% immunity gain speed",
           "-20% toxic sensitivity",
@@ -2612,7 +2633,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "Enchanter",
       "degree": 4,
@@ -2672,6 +2693,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-15.00% tame animal chance",
           "-15.00% train animal chance",
@@ -2753,7 +2775,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 9740,
+      "addPrice": 10240,
       "removePrice": 750,
       "defName": "TM_Bard",
       "degree": 0,
@@ -2810,6 +2832,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+10.00% social impact",
           "+20.00% negotiation ability",
@@ -2882,7 +2905,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "Faceless",
       "degree": 4,
@@ -2942,6 +2965,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.15 move speed",
           "+10% global work speed",
@@ -3025,7 +3049,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Faith",
       "degree": 0,
@@ -3038,6 +3062,7 @@
           "wimp"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+10% pain shock threshold",
           "-15% mental break threshold"
@@ -3058,7 +3083,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "FastLearner",
       "degree": 0,
@@ -3067,6 +3092,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+75% global learning factor"
         ]
@@ -3081,7 +3107,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "SpeedOffset",
       "degree": 1,
@@ -3090,6 +3116,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed"
         ]
@@ -3104,7 +3131,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Bravery",
       "degree": 2,
@@ -3113,6 +3140,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-100% suppressability"
         ]
@@ -3127,7 +3155,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "InnerFire",
       "degree": 4,
@@ -3187,6 +3215,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "+10% global work speed",
@@ -3266,7 +3295,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 100,
+      "addPrice": 1000,
       "removePrice": 750,
       "defName": "VCEF_Fisherman",
       "degree": 0,
@@ -3308,7 +3337,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Gastronomist",
       "degree": 0,
@@ -3317,6 +3346,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+4 cooking",
           "+4 artistic",
@@ -3354,7 +3384,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "Geomancer",
       "degree": 4,
@@ -3414,6 +3444,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-0.10 move speed",
           "-30% toxic sensitivity",
@@ -3499,7 +3530,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 8532,
+      "addPrice": 9032,
       "removePrice": 750,
       "defName": "Gladiator",
       "degree": 4,
@@ -3559,6 +3590,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "+20% global work speed",
@@ -3649,7 +3681,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "Gourmand",
       "degree": 0,
       "name": "gourmand",
@@ -3659,6 +3691,7 @@
           "ascetic"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "Only mental break \"Binging_Food\" allowed.",
           "+4 cooking"
@@ -3677,7 +3710,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "GreatMemory",
       "degree": 0,
@@ -3686,6 +3719,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
@@ -3721,7 +3755,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Groundbreaker",
       "degree": 0,
@@ -3730,6 +3764,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+4 mining",
           "+4 construction",
@@ -3750,7 +3785,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Industriousness",
       "degree": 1,
@@ -3759,6 +3794,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+20% global work speed"
         ]
@@ -3801,7 +3837,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "VTE_HeavySleeper",
       "degree": 0,
       "name": "heavysleeper",
@@ -3809,6 +3845,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
@@ -3958,7 +3995,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "HeartOfFrost",
       "degree": 4,
@@ -4018,6 +4055,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-10% mental break threshold",
           "+20% research speed",
@@ -4095,7 +4133,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Industriousness",
       "degree": 2,
@@ -4104,6 +4142,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+35% global work speed"
         ]
@@ -4154,7 +4193,6 @@
           "heavysleeper"
         ],
         "customName": false,
-        "karmaTypeForAdding": "Bad",
         "stats": [
           "x50% global work speed",
           "x70% move speed"
@@ -4173,7 +4211,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_IronStomach",
       "degree": 0,
@@ -4184,6 +4222,7 @@
           "squeamish"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to his.",
@@ -4196,7 +4235,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Nerves",
       "degree": 2,
@@ -4205,6 +4244,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-18% mental break threshold"
         ]
@@ -4220,7 +4260,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Jealous",
       "degree": 0,
       "name": "jealous",
@@ -4231,6 +4271,7 @@
           "greedy"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -4248,7 +4289,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "SpeedOffset",
       "degree": 2,
@@ -4257,6 +4298,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.40 move speed"
         ]
@@ -4765,7 +4807,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "StormBorn",
       "degree": 4,
@@ -4825,6 +4867,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "+10% global work speed",
@@ -4950,7 +4993,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "TM_Gifted",
       "degree": 2,
@@ -5010,6 +5053,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.10 move speed",
           "+10% medical tend speed",
@@ -5083,7 +5127,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "TM_ManaWellTD",
       "degree": 0,
@@ -5095,6 +5139,7 @@
           "arcaneconduit"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy has an increased resistance to the ebb and flow of mana which allows him to hold an additional 40 mana, but reduces his mana regeneration by 20%.",
@@ -5127,7 +5172,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Masochist",
       "degree": 0,
@@ -5136,6 +5181,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -5281,7 +5327,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Menagerist",
       "degree": 0,
@@ -5292,6 +5338,7 @@
           "animalhater"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "x120% tame animal chance",
           "x120% train animal chance"
@@ -5477,7 +5524,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "TM_Monk",
       "degree": 4,
@@ -5537,6 +5584,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+500% melee dodge chance",
           "+5.0 melee hit chance",
@@ -5635,7 +5683,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Neat",
       "degree": 0,
@@ -5646,6 +5694,7 @@
           "slob"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
@@ -5658,7 +5707,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "Necromancer",
       "degree": 4,
@@ -5718,6 +5767,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-0.30 move speed",
           "-20.0C Minimum comfortable temperature",
@@ -5798,7 +5848,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Nerves",
       "degree": -1,
       "name": "nervous",
@@ -5806,6 +5856,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "+8% mental break threshold"
         ]
@@ -5927,7 +5978,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "NaturalMood",
       "degree": 1,
@@ -5936,6 +5987,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is naturally optimistic about life. It's hard to get him down.",
@@ -5946,7 +5998,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 9740,
+      "addPrice": 10240,
       "removePrice": 750,
       "defName": "Paladin",
       "degree": 4,
@@ -6006,6 +6058,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.10 move speed",
           "+20% immunity gain speed",
@@ -6082,7 +6135,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "VTE_Perfectionist",
       "degree": 0,
       "name": "perfectionist",
@@ -6090,6 +6143,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "x65% global work speed"
         ]
@@ -6234,7 +6288,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "NaturalMood",
       "degree": -1,
       "name": "pessimist",
@@ -6242,6 +6296,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy tends to look on the bad side of life.",
@@ -6252,7 +6307,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "PhysicalProdigy",
       "degree": 2,
@@ -6312,6 +6367,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "+20% global work speed",
@@ -6408,7 +6464,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 12980,
+      "addPrice": 13480,
       "removePrice": 750,
       "defName": "Priest",
       "degree": 4,
@@ -6470,6 +6526,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+2 medical",
           "+0.15 move speed",
@@ -6836,7 +6893,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Psychopath",
       "degree": 0,
@@ -6845,6 +6902,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -6860,7 +6918,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Pyromaniac",
       "degree": 0,
       "name": "pyromaniac",
@@ -6909,7 +6967,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "Ranger",
       "degree": 3,
@@ -6966,6 +7024,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.30 move speed",
           "+35% immunity gain speed",
@@ -7049,7 +7108,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_Rebel",
       "degree": 0,
       "name": "rebel",
@@ -7059,6 +7118,7 @@
           "submissive"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
@@ -7098,7 +7158,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "NaturalMood",
       "degree": 2,
@@ -7107,6 +7167,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is just naturally upbeat about his situation, pretty much all the time, no matter what it is.",
@@ -7285,7 +7346,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 12980,
+      "addPrice": 13480,
       "removePrice": 750,
       "defName": "TM_TheShadow",
       "degree": 4,
@@ -7396,6 +7457,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+25% psychic sensitivity",
           "+20% pain shock threshold",
@@ -7532,7 +7594,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "TM_Shaman",
       "degree": 4,
@@ -7930,7 +7992,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "VTE_Slob",
       "degree": 0,
       "name": "slob",
@@ -7940,6 +8002,7 @@
           "neat"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
@@ -7953,7 +8016,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Industriousness",
       "degree": -2,
       "name": "slothful",
@@ -7961,6 +8024,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "-35% global work speed"
         ]
@@ -7976,7 +8040,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "SlowLearner",
       "degree": 0,
       "name": "slowlearner",
@@ -7986,6 +8050,7 @@
           "toosmart"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "-75% global learning factor"
         ]
@@ -8003,7 +8068,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "SpeedOffset",
       "degree": -1,
       "name": "slowpoke",
@@ -8011,6 +8076,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "Go frenzy inspiration disabled.",
           "-0.20 move speed"
@@ -8227,7 +8293,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Nerves",
       "degree": 1,
@@ -8236,6 +8302,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-9% mental break threshold"
         ]
@@ -8280,7 +8347,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "VTE_Submissive",
       "degree": 0,
       "name": "submissive",
@@ -8290,6 +8357,7 @@
           "rebel"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": []
       },
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
@@ -8302,7 +8370,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "Succubus",
       "degree": 4,
@@ -8362,6 +8430,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "-20% global work speed",
@@ -8451,7 +8520,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 9740,
+      "addPrice": 10240,
       "removePrice": 750,
       "defName": "Summoner",
       "degree": 4,
@@ -8511,6 +8580,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.10 move speed",
           "+10% toxic sensitivity",
@@ -8584,7 +8654,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Immunity",
       "degree": 1,
@@ -8593,6 +8663,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+30% immunity gain speed"
         ]
@@ -8898,7 +8969,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_Technophobe",
       "degree": 0,
       "name": "technophobe",
@@ -8908,6 +8979,7 @@
           "transhumanist"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "Only mental break \"VTE_TechnophobeTantrum\" allowed."
         ]
@@ -8949,7 +9021,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_ThickSkinned",
       "degree": 0,
@@ -8960,6 +9032,7 @@
           "thinskinned"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
@@ -8973,7 +9046,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "VTE_ThinSkinned",
       "degree": 0,
       "name": "thinskinned",
@@ -9033,7 +9106,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "TorturedArtist",
       "degree": 0,
@@ -9042,6 +9115,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "Morbid meditation focus type allowed."
         ]
@@ -9056,7 +9130,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "Tough",
       "degree": 0,
@@ -9065,6 +9139,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "x50% incoming damage multiplier"
         ]
@@ -9131,7 +9206,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "VTE_Tycoon",
       "degree": 0,
@@ -9140,6 +9215,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+4 social",
           "+4 crafting",
@@ -9181,7 +9257,7 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1000,
+      "addPrice": 1500,
       "removePrice": 750,
       "defName": "TM_OKWithDeath",
       "degree": 0,
@@ -9190,6 +9266,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": []
       },
       "description": "Timmy has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
@@ -9403,7 +9480,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Nerves",
       "degree": -2,
       "name": "volatile",
@@ -9411,6 +9488,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "+15% mental break threshold"
         ]
@@ -9425,7 +9503,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "TM_Wanderer",
       "degree": 4,
@@ -9485,6 +9563,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "-10% global work speed",
@@ -9563,7 +9642,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 750,
+      "removePrice": 1500,
       "defName": "VTE_Wanderlust",
       "degree": 0,
       "name": "wanderlust",
@@ -9571,6 +9650,7 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "+0.2 foraged food amount"
         ]
@@ -9585,7 +9665,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 6500,
+      "addPrice": 7000,
       "removePrice": 750,
       "defName": "Warlock",
       "degree": 4,
@@ -9645,6 +9725,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "-0.10 move speed",
           "-20% global work speed",
@@ -9734,7 +9815,7 @@
     {
       "canAdd": true,
       "canRemove": false,
-      "addPrice": 5292,
+      "addPrice": 5792,
       "removePrice": 750,
       "defName": "TM_Wayfarer",
       "degree": 4,
@@ -9794,6 +9875,7 @@
           "shaman"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Good",
         "stats": [
           "+0.20 move speed",
           "-10% global work speed",
@@ -9872,7 +9954,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 500,
-      "removePrice": 1500,
+      "removePrice": 2250,
       "defName": "Wimp",
       "degree": 0,
       "name": "wimp",
@@ -9882,6 +9964,7 @@
           "brawler"
         ],
         "customName": false,
+        "karmaTypeForAdding": "Bad",
         "stats": [
           "-60% pain shock threshold"
         ]
