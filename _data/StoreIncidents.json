@@ -1,49 +1,9 @@
 {
 	"incitems" : [
 	{
-		"abr": "clearweather",
-		"price": 20,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "rain",
-		"price": 20,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "vomitrain",
 		"price": 40,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "foggyrain",
-		"price": 20,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "rainythunderstorm",
-		"price": 20,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "drythunderstorm",
-		"price": 20,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "snowgentle",
-		"price": 20,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "snowhard",
-		"price": 20,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "fog",
-		"price": 20,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "flashstorm",
@@ -236,5 +196,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 47
+	"total": 39
 }
