@@ -43,7 +43,7 @@
     "author": "Torann",
     "name": "A RimWorld of Magic",
     "steamId": "1201382956",
-    "version": "2.5.4.7"
+    "version": "2.5.4.9"
   },
   {
     "author": "Rah",
@@ -222,12 +222,6 @@
   {
     "author": "Vanilla Expanded team",
     "name": "Vanilla Factions Expanded - Vikings"
-  },
-  {
-    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.0.0"
   },
   {
     "author": "Oskar Potocki, XeoNovaDan",
@@ -441,7 +435,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "5.0.3.1"
+    "version": "5.0.3.2"
   },
   {
     "author": "JisPichi",
