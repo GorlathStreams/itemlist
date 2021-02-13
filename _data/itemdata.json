@@ -16897,5 +16897,159 @@
     "Mod": "Vanilla Armour Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
+  },
+  "MM_EggPhoenixFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_EggSalamanderFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_EggFenghuangFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_EggIeltxuFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_EggBasiliskFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Basilisk": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Fenghuang": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Ieltxu": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Kappa": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_LesserWyvern": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Phoenix": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Salamander": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Tlilcoatl": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MM_Xiezhi": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Magical Menagerie",
+    "QuantityLimit": -1,
+    "Weight": 1.0
   }
 }
