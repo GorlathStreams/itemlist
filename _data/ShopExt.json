@@ -3068,7 +3068,7 @@
           "-15% mental break threshold"
         ]
       },
-      "description": "Timmy's faith is firm. It allows him to move under any circumstances.",
+      "description": "Timmy possesses strong spiritual convictions, allowing him to press on even under the greatest of hardships.",
       "stats": [
         "+10% pain shock threshold",
         "-15% mental break threshold"
@@ -4225,7 +4225,7 @@
         "karmaTypeForAdding": "Good",
         "stats": []
       },
-      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to his.",
+      "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to he.",
       "stats": [],
       "conflicts": [
         "squeamish"
@@ -8260,7 +8260,7 @@
         "customName": false,
         "stats": []
       },
-      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for his.",
+      "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for he.",
       "stats": [],
       "conflicts": [
         "ironstomach"
