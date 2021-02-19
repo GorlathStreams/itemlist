@@ -235,7 +235,7 @@
     },
     "description": "Adds a trait for your pawn.",
     "name": "Add trait",
-    "usage": "!trait",
+    "usage": "!trait <trait>",
     "userLevel": "Anyone",
     "shortcut": true
   },
@@ -245,7 +245,7 @@
     },
     "description": "Removes a trait from our pawn.",
     "name": "Remove trait",
-    "usage": "!removetrait",
+    "usage": "!removetrait <trait>",
     "userLevel": "Anyone",
     "shortcut": true
   },
