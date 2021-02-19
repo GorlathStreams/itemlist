@@ -9182,7 +9182,7 @@
     "Weight": 1.0
   },
   "RGK_EndTableWithLamp": {
-    "CustomName": "endtable3",
+    "CustomName": "endtablewithlamp",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9298,7 +9298,7 @@
     "Weight": 1.0
   },
   "RGK_TableB": {
-    "CustomName": "classictable(2x2)ver1",
+    "CustomName": "classictable(2x2)withcloth",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9310,7 +9310,7 @@
     "Weight": 1.0
   },
   "RGK_TableD": {
-    "CustomName": "classictable(2x2)ver2",
+    "CustomName": "classictable(2x2)withflowers",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9344,7 +9344,7 @@
     "Weight": 1.0
   },
   "RGK_TableG": {
-    "CustomName": "classictable(2x2)ver3",
+    "CustomName": "classictable(2x2)",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9367,7 +9367,7 @@
     "Weight": 1.0
   },
   "RGK_MiniTableA": {
-    "CustomName": "minitable2",
+    "CustomName": "minitable",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
@@ -9379,7 +9379,7 @@
     "Weight": 1.0
   },
   "RGK_MiniTableB": {
-    "CustomName": "minitable1",
+    "CustomName": "minitablewithcloth",
     "HasQuantityLimit": true,
     "IsMelee": false,
     "IsRanged": false,
