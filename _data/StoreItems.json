@@ -1426,7 +1426,7 @@
       "abr": "endtable",
       "category": "Furniture",
       "defname": "RGK_EndTableWithLampE",
-      "price": 185
+      "price": -10
     },
     {
       "abr": "exoskeletonsuit",
