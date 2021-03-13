@@ -2929,12 +2929,6 @@
 		"defname": "Telescope"
 	},
 	{
-		"abr": "thrumbo",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Thrumbo"
-	},
-	{
 		"abr": "thrumbohorn",
 		"price": 1333,
 		"category": "Items",
@@ -4616,7 +4610,7 @@
 	},
 	{
 		"abr": "direwolf",
-		"price": 3667,
+		"price": -10,
 		"category": "Animal",
 		"defname": "TM_Dire_WolfR"
 	},
@@ -7004,7 +6998,7 @@
 	},
 	{
 		"abr": "newspaper",
-		"price": 33,
+		"price": -10,
 		"category": "Books",
 		"defname": "VBE_Newspaper"
 	},
@@ -7724,7 +7718,7 @@
 	},
 	{
 		"abr": "radiator",
-		"price": 85,
+		"price": -10,
 		"category": "Hygiene",
 		"defname": "RadiatorStuffed"
 	},
@@ -9878,88 +9872,106 @@
 	},
 	{
 		"abr": "basilisk",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Basilisk"
 	},
 	{
 		"abr": "basiliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggBasiliskFertilized"
 	},
 	{
 		"abr": "fenghuang",
-		"price": 625,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Fenghuang"
 	},
 	{
 		"abr": "fenghuangegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggFenghuangFertilized"
 	},
 	{
 		"abr": "ieltxu",
-		"price": 417,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Ieltxu"
 	},
 	{
 		"abr": "ieltxuegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggIeltxuFertilized"
 	},
 	{
 		"abr": "kappa",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Kappa"
 	},
 	{
 		"abr": "lesserwyvern",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_LesserWyvern"
 	},
 	{
 		"abr": "phoenix",
-		"price": 917,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Phoenix"
 	},
 	{
 		"abr": "phoenixegg(fert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggPhoenixFertilized"
 	},
 	{
 		"abr": "salamander",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Salamander"
 	},
 	{
 		"abr": "salamanderegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MM_EggSalamanderFertilized"
 	},
 	{
 		"abr": "tlilcoatl",
-		"price": 750,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Tlilcoatl"
 	},
 	{
 		"abr": "xiezhi",
-		"price": 833,
+		"price": -10,
 		"category": "Animal",
 		"defname": "MM_Xiezhi"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "hygieneenhancer",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "HygieneEnhancer"
+	},
+	{
+		"abr": "thrumbo",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "Thrumbo"
 	}
 	],
-	"total": 1660
+	"total": 1662
 }
